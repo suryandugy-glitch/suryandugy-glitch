@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Fluid animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=260&section=header&text=Hi%20There%20👋%20I'm%20Suryan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=260&section=header&text=Hi%20There%20👋%20I'm%20Suryandu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="header" />
 
 <!-- Animated typing text -->
 <a href="#">
