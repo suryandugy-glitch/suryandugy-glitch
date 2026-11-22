@@ -27,10 +27,10 @@ I'm Suryandu Ganguly, a developer who enjoys turning ideas into working software
 | Project | What it does | Links |
 | --- | --- | --- |
 | Cellar | Checks CSV exports for changes that break downstream imports. | [Demo](https://cellar-csv.vercel.app) ? [Source](https://github.com/suryandugy-glitch/Cellar) |
-| BuildClinic by Cellar | Diagnoses common build failures directly in the browser. | [Live app](https://buildclinic.vercel.app) ? [Source](https://github.com/suryandugy-glitch/buildclinic) |
-| DSA Visualizer by Cellar | Animates sorting, searching, and basic data structures. | [Live app](https://suryandugy-glitch.github.io/dsa-visualizer/) ? [Source](https://github.com/suryandugy-glitch/dsa-visualizer) |
-| ClauseCraft by Cellar | Reviews PDF clauses and exports a report with keyword flags. | [Live app](https://cellar-clausecraft.onrender.com/) ? [Source](https://github.com/suryandugy-glitch/ClauseCraft) |
-| Debate Arena | Practice debating with an AI opponent using your own Groq key. | [Live app](https://suryandugy-glitch.github.io/Debate-Arena/) ? [Source](https://github.com/suryandugy-glitch/Debate-Arena) |
+| <img src="https://raw.githubusercontent.com/suryandugy-glitch/buildclinic/main/public/cellar-logo.png" width="24" alt=""> BuildClinic by Cellar | Diagnoses common build failures directly in the browser. | [Live app](https://buildclinic.vercel.app) ? [Source](https://github.com/suryandugy-glitch/buildclinic) |
+| <img src="https://raw.githubusercontent.com/suryandugy-glitch/dsa-visualizer/main/public/cellar-logo.png" width="24" alt=""> DSA Visualizer by Cellar | Animates sorting, searching, and basic data structures. | [Live app](https://suryandugy-glitch.github.io/dsa-visualizer/) ? [Source](https://github.com/suryandugy-glitch/dsa-visualizer) |
+| <img src="https://raw.githubusercontent.com/suryandugy-glitch/ClauseCraft/main/frontend/public/cellar-logo.png" width="24" alt=""> ClauseCraft by Cellar | Reviews PDF clauses and exports a report with keyword flags. | [Live app](https://cellar-clausecraft.onrender.com/) ? [Source](https://github.com/suryandugy-glitch/ClauseCraft) |
+| <img src="https://raw.githubusercontent.com/suryandugy-glitch/Debate-Arena/main/cellar-logo.png" width="24" alt=""> Debate Arena | Practice debating with an AI opponent using your own Groq key. | [Live app](https://suryandugy-glitch.github.io/Debate-Arena/) ? [Source](https://github.com/suryandugy-glitch/Debate-Arena) |
 
 ## 🛠️ Tech Stack
 
