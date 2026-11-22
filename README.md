@@ -12,10 +12,7 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=764ABA" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=764ABA" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=764ABA" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=764ABA" /></a>
+  <a href="https://suryandugy-glitchgithubio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=764ABA" /></a>
 </p>
 
 </div>
@@ -24,10 +21,15 @@
 
 I'm Suryandu Ganguly, a developer who enjoys turning ideas into working software. I like clean architecture, learning new tools, and building things people actually use.
 
-- 🔭 Currently working on: **_your current project_**
-- 🌱 Currently learning: **_your current focus_**
-- 💬 Ask me about: **_your strengths_**
-- ⚡ Fun fact: **_something fun about you_**
+
+## Featured projects
+
+| Project | What it does | Links |
+| --- | --- | --- |
+| Cellar | Checks CSV exports for changes that break downstream imports. | [Demo](https://cellar-csv.vercel.app) ? [Source](https://github.com/suryandugy-glitch/Cellar) |
+| BuildClinic by Cellar | Diagnoses common build failures directly in the browser. | [Live app](https://buildclinic.vercel.app) ? [Source](https://github.com/suryandugy-glitch/buildclinic) |
+| DSA Visualizer by Cellar | Animates sorting, searching, and basic data structures. | [Live app](https://suryandugy-glitch.github.io/dsa-visualizer/) ? [Source](https://github.com/suryandugy-glitch/dsa-visualizer) |
+| Debate Arena | Practice debating with an AI opponent using your own Groq key. | [Live app](https://suryandugy-glitch.github.io/Debate-Arena/) ? [Source](https://github.com/suryandugy-glitch/Debate-Arena) |
 
 ## 🛠️ Tech Stack
 
